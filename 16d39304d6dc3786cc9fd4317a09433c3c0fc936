@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_bf6ac2eb",
+        "filename": "project/foo.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004725
+      },
+      "writtenOn": "2015-04-24T14:17:34Z",
+      "side": 1,
+      "message": "Remove this..",
+      "range": {
+        "startLine": 2,
+        "startChar": 5,
+        "endLine": 2,
+        "endChar": 8
+      },
+      "revId": "16d39304d6dc3786cc9fd4317a09433c3c0fc936",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
