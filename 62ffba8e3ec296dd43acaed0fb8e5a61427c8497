@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d5979fea",
+        "filename": "yet/anothr.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004725
+      },
+      "writtenOn": "2015-04-24T20:26:20Z",
+      "side": 1,
+      "message": "Put a hash sign to denote end of file.",
+      "revId": "62ffba8e3ec296dd43acaed0fb8e5a61427c8497",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
