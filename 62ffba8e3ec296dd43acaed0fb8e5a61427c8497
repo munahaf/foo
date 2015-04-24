@@ -16,6 +16,24 @@
       "revId": "62ffba8e3ec296dd43acaed0fb8e5a61427c8497",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_159e5707",
+        "filename": "yet/anothr.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004734
+      },
+      "writtenOn": "2015-04-24T20:27:22Z",
+      "side": 1,
+      "message": "Not a hash sign rather a % sign",
+      "parentUuid": "1a106d94_d5979fea",
+      "revId": "62ffba8e3ec296dd43acaed0fb8e5a61427c8497",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
